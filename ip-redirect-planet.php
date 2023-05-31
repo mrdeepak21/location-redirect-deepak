@@ -1,11 +1,11 @@
 <?php
 /**
- * @package: ip-redirect-deepak
+ * @package: ip-redirect-planet
  * @version: 1.0
  * Plugin Name: Location-based URL Redirect
  * Description: Redirect users based on their location.
- * Author: Deepak Kumar
- * Author URI: https://www.linkedin.com/in/deepak01/
+ * Author: Plant-for-the-Planet
+ * Author URI: https://pp.eco
  * Version: 1.0
  */
 if (!defined('ABSPATH')) {
